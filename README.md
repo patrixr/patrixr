@@ -8,6 +8,11 @@
 - 🧗‍♂️ Aspiring rock climber
 - 🕺Flailing dancer
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Links
 
 [![Website](https://img.shields.io/badge/website-dev-2a8?style=flat-square&logo=safari&logoColor=white)](https://tronica.io)
 [![Instagram](https://img.shields.io/static/v1?style=flat-square&label=instagram&message=patrixr.r&color=blueviolet&logo=instagram&logoColor=white)](https://www.instagram.com/patrix.r/)
