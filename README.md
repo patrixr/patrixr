@@ -10,6 +10,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Design pattern: JS Functional Chains](https://dev.to/patrixr/design-pattern-js-functional-chains-2ahj)
+- [React: Writing a custom API hook](https://dev.to/patrixr/react-writing-a-custom-api-hook-l16)
+- [Publishing my vitals over the cloud](https://dev.to/patrixr/publishing-my-vitals-over-the-cloud-132e)
+- [An outlook on state management](https://dev.to/patrixr/an-outlook-on-state-management-469c)
 <!-- BLOG-POST-LIST:END -->
 
 ### Links
