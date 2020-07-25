@@ -2,8 +2,8 @@
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=patrixr&show_icons=true&hide_border=true)
 
-- 🖥 Full-Stack Software engineer for [Crossroads Foundation](https://crossroads.org.hk)
 - 📍 Hong Kong
+- 🖥 Lead Dev @ [Crossroads Foundation](https://crossroads.org.hk)
 - 🎲 I code for fun
 - 🧗‍♂️ Aspiring rock climber
 - 🕺Flailing dancer
