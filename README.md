@@ -10,6 +10,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated JIRA release notes](https://dev.to/patrixr/automated-jira-release-notes-4f20)
 - [Design pattern: JS Functional Chains](https://dev.to/patrixr/design-pattern-js-functional-chains-2ahj)
 - [React: Writing a custom API hook](https://dev.to/patrixr/react-writing-a-custom-api-hook-l16)
 - [Publishing my vitals over the cloud](https://dev.to/patrixr/publishing-my-vitals-over-the-cloud-132e)
