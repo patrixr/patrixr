@@ -17,6 +17,10 @@
 - [An outlook on state management](https://dev.to/patrixr/an-outlook-on-state-management-469c)
 <!-- BLOG-POST-LIST:END -->
 
+### Digital Art
+
+- Computer generated NFT collection: [hicetnunc.xyz/octies](https://hicetnunc.xyz/octies)
+
 ### Links
 
 [![Website](https://img.shields.io/badge/website-dev-2a8?style=flat-square&logo=safari&logoColor=white)](https://tronica.io)
