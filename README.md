@@ -3,7 +3,7 @@
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=patrixr&show_icons=true&hide_border=true)
 
 - 📍 &nbsp; Hong Kong
-- 🖥 &nbsp; Lead Dev @ [Crossroads Foundation](https://crossroads.org.hk)
+- 🖥 &nbsp; Contributor @ [Crossroads Foundation](https://crossroads.org.hk)
 - 🎲 &nbsp; I code for fun
 - 🧗‍♂️ &nbsp; Aspiring rock climber
 - 🕺 &nbsp; Optimist
