@@ -10,7 +10,7 @@
 
 ### Check out my:
 
-- Computer generated NFT collection: [hicetnunc.xyz/octies](https://hicetnunc.xyz/octies)
+- Computer generated NFT collection: [Octies](https://objkt.com/profile/tz1dQEFRNPdx2TXqfcprr1XCKdcUfir9geTP/created)
 - Experimental Markup language: [kyoml.com](https://kyoml.com/)
 - Non-profit contributions [@crossroads](https://github.com/crossroads)
 - Widely unused [npm modules](https://www.npmjs.com/~patrixr)
