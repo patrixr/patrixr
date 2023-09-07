@@ -5,7 +5,7 @@
 - 📍 &nbsp; Hong Kong
 - 🖥 &nbsp; Contributor @ [Crossroads Foundation](https://crossroads.org.hk)
 - 🎲 &nbsp; I code for fun
-- 🧗‍♂️ &nbsp; Aspiring rock climber
+- 🎨 &nbsp; Creative coder
 - 🕺 &nbsp; Optimist
 
 ### Check out my:
